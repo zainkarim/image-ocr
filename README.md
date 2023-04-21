@@ -1,1 +1,1 @@
-# image-ocr
+# Image Based Optical Character Recognition 🔍
